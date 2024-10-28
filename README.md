@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mahtxx, a gamer/coder from Greece.
   
-- 🌱 I’m currently trying to learn program languages.
+- 🌱 I’m currently learning more program languages.
   
 - 📫 How to reach me: @mahtxx on Discord.
   
