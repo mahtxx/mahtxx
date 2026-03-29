@@ -51,12 +51,7 @@
 
 ---
 
-## 📊 Profile
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahtxx&color=0e75b6&style=flat)
-
----
-
 ## 📫 Contact
 
+![Profile Views](https://komarev.com/ghpvc/?username=mahtxx&color=0e75b6&style=flat)
 Discord: **@mahtxx**
