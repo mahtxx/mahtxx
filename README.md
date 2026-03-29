@@ -9,7 +9,7 @@ Backend & frontend developer focused on FiveM development, Discord automation, a
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1f1f2e&height=80&section=header&text=FiveM%20Scripts%20•%20Discord%20Bots%20•%20Backend%20Development&fontColor=ffffff&fontSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:2a2a4a&height=90&section=header&text=FiveM%20Scripts%20•%20Discord%20Bots%20•%20Backend%20Development&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=50" />
 </p>
 
 ---
