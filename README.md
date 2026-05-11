@@ -33,11 +33,11 @@ const mahtxx = {
 
 **Web & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,sqlite,cloudflare&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,windows,linux,ubuntu,blender&theme=dark)](https://skillicons.dev)
 
 **FiveM Frameworks**
 
