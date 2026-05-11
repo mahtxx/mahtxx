@@ -97,13 +97,15 @@ const mahtxx = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mahtxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e4e4f0&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e4e4f0&langs_count=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=mahtxx&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=mahtxx&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=64648a&dates=64648a" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahtxx&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed" />
 
 </div>
 
