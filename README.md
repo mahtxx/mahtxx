@@ -29,15 +29,23 @@ const mahtxx = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=lua,js,py,cs,c,cpp,dart&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,js,py,cs,java,php,c,cpp,dart&theme=dark)](https://skillicons.dev)
 
-**Web & Backend**
+**Web & Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,sqlite,cloudflare&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
+
+**Databases & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,azure,cloudflare&theme=dark)](https://skillicons.dev)
+
+**Frameworks & Runtimes**
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,electron,flutter,tauri,discordjs,discordbots&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,windows,linux,ubuntu,blender&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,npm,vscode,visualstudio,powershell,ps,stackoverflow,discord,windows,linux,ubuntu,mint,blender&theme=dark)](https://skillicons.dev)
 
 **FiveM Frameworks**
 
